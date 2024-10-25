@@ -1,5 +1,5 @@
 # MEXA Hackathons 
-## Rules & Community Agreements 
+
 
 ### Code of Conduct 
 We are all here to learn together and explore new ideas. We ask that you approach all hackathons with a kind and collaborative spirit. 
