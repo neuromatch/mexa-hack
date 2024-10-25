@@ -2,7 +2,7 @@
 
 
 ### Rules 
-You can find our hackathon Code of Conduct, Rules, Submission Requirements, and Judging Criteria [here](https://github.com/neuromatch/mexa-hack/rules.md)
+You can find our hackathon Code of Conduct, Rules, Submission Requirements, and Judging Criteria [here](https://github.com/neuromatch/mexa-hack/blob/main/rules.md)
 
 
 ### Hackathon Participation 
