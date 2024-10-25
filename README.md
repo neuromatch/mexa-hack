@@ -25,9 +25,9 @@ Inspiration for our Hackathon Rules taken from [CruxHacks](https://github.com/Cr
 ### Submission Requirements
 For all virtual hackathons, you are required to submit your final project within 2 hours of the competition completion time. 
 
-All projects should be submitted through this link. Submissions are required to include: 
+All projects should be submitted through [this link](). Submissions are required to include: 
 * a link to the project code repository
-* a breif write up about the project
+* a slide deck sharing about your project. Please make a copy of [this slide deck]() and cover all of the included topics 
 * if applicable, a recorded video demonstration of your project 
 
 Judging will take place asynchronously for all virtual events. You won't have a chance to present your project to the judges synchronously, so please make sure your submission covers what you'd like to share with the judges!  
@@ -36,4 +36,8 @@ You are encouraged to present what you have done even if your hack is broken or 
 
 ### Judging Criteria 
 
-
+* Integration of Lived Experience: 
+* Security and Ethical Conciderations:
+* Creativity: 
+* Relevance and Execution: Is this project responsive to the challenge for which it was submitted? Is it a complete project or does it have a long way to go? Is it technically feasible? How usable or user-friendly is the proposed solution?
+* Collaboration: We encourage and applaud interdisiplinary teams who are made up of members from different parts of the world.   
