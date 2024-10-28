@@ -22,22 +22,35 @@ Violations of the Code of Conduct should be reported by filling out our [Code of
 
 Inspiration for our Hackathon Rules taken from [CruxHacks](https://github.com/CruzHacks/hackathon-rules/blob/master/Rules.md)! 
 
+### Support and Communicaiton 
+Participants can communicate within their teams using whatever platform or tools they want. 
+There will be a discord server for all hack participants where they can communicate with mentors and Neuromatch staff for support. In addition, participants can reach out via email at support@mexa.app. 
+
 ### Submission Requirements
 For all virtual hackathons, you are required to submit your final project within 2 hours of the competition completion time. 
 
 All projects should be submitted through [this link](). Submissions are required to include: 
 * a link to the project code repository
 * a slide deck sharing about your project. Please make a copy of [this slide deck]() and cover all of the included topics 
-* if applicable, a recorded video demonstration of your project 
+* a recorded video presenting your slide deck
 
-Judging will take place asynchronously for all virtual events. You won't have a chance to present your project to the judges synchronously, so please make sure your submission covers what you'd like to share with the judges!  
+Judging will take place asynchronously for all virtual events. You won't have a chance to present your project to the judges synchronously, so please make sure your submission covers what you'd like to share with the judges! Judging will be complete within a week of the end of the hack.  
 
-You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time!
+You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time.
 
 ### Judging Criteria 
+Each project will be judged on these five categories. Judges will rate each category 1 to 5 (5 being the highest), and the cummulative score will be your projects final score. The highest possible score being 25. 
 
-* Integration of Lived Experience: 
-* Security and Ethical Conciderations:
-* Creativity: 
-* Relevance and Execution: Is this project responsive to the challenge for which it was submitted? Is it a complete project or does it have a long way to go? Is it technically feasible? How usable or user-friendly is the proposed solution?
-* Collaboration: We encourage and applaud interdisiplinary teams who are made up of members from different parts of the world.   
+* Innovation and Creativity
+* Technical Execution
+* Relevance and Impact
+* Feasibility and Scalability
+* Risk Assessment and Mitigation
+
+Judges include people with a variety of experienses including AI engineers, AI researchers, mental health experts (clinicians and researchers), and industry leaders. 
+
+### Awards and Recognition 
+All teams will receive a certificate of participation and be featured on our website (unless teams opt out). 
+
+The winning team(s) will be guarenteed acceptance to the in-person, fully-funded hackathon put on by MEXA in 2025. 
+
