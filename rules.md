@@ -29,7 +29,7 @@ There will be a discord server for all hack participants where they can communic
 ### Submission Requirements
 For all virtual hackathons, you are required to submit your final project within 2 hours of the competition completion time. 
 
-All projects should be submitted through [this link](). Submissions are required to include: 
+All projects should be submitted through [this link](https://airtable.com/app3qpCRLWwTWEy6S/pagJMzEo5H8pxlPk5/form). Submissions are required to include: 
 * a link to the project code repository
 * a slide deck sharing about your project. Please make a copy of [this slide deck](https://docs.google.com/presentation/d/18sHLb7fI7khq8_v2OsqlYldysXNlOyXX0o4Rkghs3e0/edit?usp=sharing) and cover all of the included topics 
 * a recorded video presenting your slide deck
