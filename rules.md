@@ -47,7 +47,7 @@ Each project will be judged on these five categories. Judges will rate each cate
 * Feasibility and Scalability
 * Risk Assessment and Mitigation
 
-Judges include people with a variety of experienses including AI engineers, AI researchers, mental health experts (clinicians and researchers), and industry leaders. 
+Judges include people with a variety of expertise including AI engineers, AI researchers, mental health experts (clinicians and researchers), and industry leaders. 
 
 ### Awards and Recognition 
 All teams will receive a certificate of participation and be featured on our website (unless teams opt out). 
