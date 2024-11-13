@@ -52,5 +52,4 @@ Judges include people with a variety of expertise including AI engineers, AI res
 ### Awards and Recognition 
 All teams will receive a certificate of participation and be featured on our website (unless teams opt out). 
 
-The winning team(s) will be guarenteed acceptance to the in-person, fully-funded hackathon put on by MEXA in 2025. 
 
