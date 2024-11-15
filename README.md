@@ -19,4 +19,4 @@ December 3-5, 2024
 
 Learn more [here](https://github.com/neuromatch/mexa-hack/blob/main/virtual-hack-1.md).
 
-**Register at [mexa.app](mexa.app)**
+**Register [here](https://airtable.com/app3qpCRLWwTWEy6S/pag7ltQLRdFqFoCYH/form)**
