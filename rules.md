@@ -32,7 +32,7 @@ For all virtual hackathons, you are required to submit your final project within
 All projects should be submitted through [this link](https://airtable.com/app3qpCRLWwTWEy6S/pagJMzEo5H8pxlPk5/form). Submissions are required to include: 
 * a link to the project code repository
 * a slide deck sharing about your project. Please make a copy of [this slide deck](https://docs.google.com/presentation/d/18sHLb7fI7khq8_v2OsqlYldysXNlOyXX0o4Rkghs3e0/edit?usp=sharing) and cover all of the included topics 
-* a recorded video presenting your slide deck
+* a recorded video presenting your slide deck, this should be no more than 10 minutes 
 
 Judging will take place asynchronously for all virtual events. You won't have a chance to present your project to the judges synchronously, so please make sure your submission covers what you'd like to share with the judges! Judging will be complete within a week of the end of the hack.  
 
