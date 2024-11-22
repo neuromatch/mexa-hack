@@ -9,7 +9,7 @@ All hackathon participants will be held to the [Neuromatch Code of Conduct](http
 Violations of the Code of Conduct should be reported by filling out our [Code of Conduct Violation Reporting form](https://airtable.com/shrezDSthWPlJ4Rpy). Complaints may be made anonymously and are visible only to members of the Neuromatch Conflict Resolution Office.
 
 ### Hackathon Rules 
-1. Teams may have a maximum of 5 people.
+1. Teams may have a maximum of 6 people.
 2. Teams should be made up exclusively of accepted hackers who are not organizers, employees, mentors, judges, sponsors, or any other privileged position at the event.
 3. Teams can gain advice and support from organizers, mentors, sponsors, and others.
 4. All work on a project must be done during the hackathon's set timeframe.
@@ -34,12 +34,12 @@ All projects should be submitted through [this link](https://airtable.com/app3qp
 * a slide deck sharing about your project. Please make a copy of [this slide deck](https://docs.google.com/presentation/d/18sHLb7fI7khq8_v2OsqlYldysXNlOyXX0o4Rkghs3e0/edit?usp=sharing) and cover all of the included topics 
 * a recorded video presenting your slide deck, this should be no more than 10 minutes 
 
-Judging will take place asynchronously for all virtual events. You won't have a chance to present your project to the judges synchronously, so please make sure your submission covers what you'd like to share with the judges! Judging will be complete within a week of the end of the hack.  
+Judging will take place asynchronously for all virtual events. You won't have a chance to present your project to the judges synchronously, so please make sure your submission covers what you'd like to share with the judges! Winners will be announced Tuesday, December 10 at 5 p.m. UTC.  
 
 You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time.
 
 ### Judging Criteria 
-Each project will be judged on these five categories. Judges will rate each category 1 to 5 (5 being the highest), and the cummulative score will be your projects final score. The highest possible score being 25. 
+Each project will be judged on these five categories. Judges will rate each category 1 to 5 (5 being the highest), and the cumulative score will be your project's final score. The highest possible score is 25. 
 
 * Innovation and Creativity
 * Technical Execution
@@ -50,6 +50,6 @@ Each project will be judged on these five categories. Judges will rate each cate
 Judges include people with a variety of expertise including AI engineers, AI researchers, mental health experts (clinicians and researchers), and industry leaders. 
 
 ### Awards and Recognition 
-All teams will receive a certificate of participation and be featured on our website (unless teams opt out). 
+All teams will receive a certificate of participation and be featured on our website (unless teams opt-out). 
 
 
