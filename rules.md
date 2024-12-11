@@ -51,6 +51,8 @@ Each project will be judged on these five categories. Judges will rate each cate
 Judges include people with a variety of expertise including AI engineers, AI researchers, mental health experts (clinicians and researchers), lived experience experts, and industry leaders. 
 
 ### Awards and Recognition 
-All teams will receive a certificate of participation and be featured on our website (unless teams opt-out). 
+All teams who submit a final project will be featured on our website (unless teams opt out). 
+
+First place will receive $200 USD per participant, second place will receive $100 USD per participant, and third place will receive $50 USD per participant. Prizes are dependent on legal restrictions and the ability to receive money via Bill.com; we will discuss an alternative if necessary. 
 
 
