@@ -10,7 +10,7 @@ Violations of the Code of Conduct should be reported by filling out our [Code of
 
 ### Hackathon Rules 
 1. Teams may have a maximum of 6 people.
-2. Teams should be made up exclusively of accepted hackers who are not organizers, employees, mentors, judges, sponsors, or any other privileged position at the event.
+2. Teams should be made up exclusively of accepted hackers who are not organizers, employees who are directly working on this project, mentors, judges, sponsors, or any other privileged position at the event.
 3. Teams can gain advice and support from organizers, mentors, sponsors, and others.
 4. All work on a project must be done during the hackathon's set timeframe.
 5. Teams can use an idea they had before the event.
@@ -40,7 +40,7 @@ Judging will take place asynchronously for all virtual events. You won't have a 
 You are encouraged to present what you have done even if your hack is broken or you weren’t able to finish. It's okay if you didn't finish your hack—that happens all the time.
 
 ### Judging Criteria 
-Each project will be judged on these five categories. Judges will rate each category 1 to 5 (5 being the highest), and the cumulative score will be your project's final score. The highest possible score is 25. 
+Each project will be judged on these five categories. Judges will rate each category 1 to 5 (5 being the highest), and the cumulative score will be your project's final score. The highest possible score is 25. As a part of all of these categories, judges will be taking into account how your team has embedded lived experience into your plans. You can learn more about incorporating lived experience in [this short video](https://youtu.be/Sb3r7QJQCOY) featuring Dr. Kate Marting and Chris Lynch of Wellcome's Lived Experience Team. 
 
 * Innovation and Creativity
 * Technical Execution
@@ -48,10 +48,10 @@ Each project will be judged on these five categories. Judges will rate each cate
 * Feasibility and Scalability
 * Risk Assessment and Mitigation
 
-Judges include people with a variety of expertise including AI engineers, AI researchers, mental health experts (clinicians and researchers), lived experience experts, and industry leaders. 
+Judges include people with a variety of expertise including AI engineers, AI researchers, mental health experts (clinicians and researchers), lived experience experts, and industry leaders. In an effort to eliminate any conflicts of interest, judges will not review any projects for teams they know one or more members of the team in any personal and/or professional capacity. 
 
 ### Awards and Recognition 
-All teams who submit a final project will be featured on our website (unless teams opt out). 
+All teams who submit a final project will be featured on our website (unless teams opt-out). 
 
 First place will receive $200 USD per participant, second place will receive $100 USD per participant, and third place will receive $50 USD per participant. Prizes are dependent on legal restrictions and the ability to receive money via Bill.com; we will discuss an alternative if necessary. 
 
