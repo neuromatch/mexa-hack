@@ -13,6 +13,13 @@ This hackathon is funded by Wellcome!
 
 [You can find Rules and Judging Criteria here.](https://github.com/neuromatch/mexa-hack/blob/main/rules.md) 
 
+### Timeline of Events
+* Kick-Off Event: Friday, January 24 at 3 p.m. UTC
+* Hacking: January 26 at 00:00 UTC - January 29 at 24:00 UTC
+* Winners Celebration: Monday, February 3 at 5 p.m. UTC
+
+We added an additional day to this Hackathon and moved one of the days to be a weekend day. Our hope is you'll have a little more time to meet your team, and have more flexibility to contribute based on your schedule.
+
 ### Background
 Access to mental health care remains a global challenge. Many people, especially in under-resourced regions, do not have access to trained therapists or face social and cultural obstacles that prevent them from seeking help. The global shortage of mental health professionals exacerbates these problems, leaving many individuals without the support they need.
 
