@@ -1,7 +1,7 @@
 # MEXA Virtual Hackathon 
 
 
-## Mental Health and AI: Therapeutic Interventions
+## Mental Health and AI: Intervention
 
 ### January 26 - 29 
 [Join MEXA here.](https://mexa.app/)  
@@ -13,17 +13,17 @@ This hackathon is funded by Wellcome!
 
 [You can find Rules and Judging Criteria here.](https://github.com/neuromatch/mexa-hack/blob/main/rules.md) 
 
-#### Background
+### Background
 Access to mental health care remains a global challenge. Many people, especially in under-resourced regions, do not have access to trained therapists or face social and cultural obstacles that prevent them from seeking help. The global shortage of mental health professionals exacerbates these problems, leaving many individuals without the support they need.
 
 AI and large language models (LLMs) have shown potential in assisting with various tasks that require language understanding and generation, such as answering questions, offering advice, or simulating conversational agents. Given these capabilities, AI could offer new or improved pathways for providing mental health support and supporting mental health professionals.
 
 However, LLMs are not therapists. While they can engage in conversations, they have not been designed to offer mental health care. For example, they lack the emotional intelligence, cultural sensitivity, and nuanced understanding of human psychology that trained professionals bring. To effectively use AI in therapeutic contexts, it’s crucial to explore how LLMs can complement or enhance mental health care without overstepping their capabilities, and to understand the shortcomings or unintended consequences of using them in treatment
 
-This challenge invites participants to explore whether and how LLMs can safely make mental health care more efficient and effective. That could involve developing specialised models that are more capable of acting as therapeutic agents; exploring new methods of collaboration between AI, trained health professionals, and patients; or anything else that addresses an important gap in making AI-assisted mental health intervention safe, efficient, and effective. All projects should engage with Lived Experience expertise to ensure that solutions created are shaped by the priorities of those who will most benefit, and that interventions are safe, ethical and effective.
+This challenge invites participants to explore whether and how LLMs could safely make mental health care more efficient and effective. That could involve developing specialised models that are better capable of acting as therapeutic agents; exploring new methods of collaboration between AI, trained health professionals, and patients; or anything else that addresses an important gap in making AI-assisted mental health intervention safe, efficient, and effective. All projects should engage with Lived Experience expertise to ensure that solutions created are shaped by the priorities of those who will most benefit, and that interventions are safe, ethical and effective.
 
 
-#### Objective
+### Objective
 Design a solution that uses generative AI to safely improve the efficiency and/or effectiveness of human-delivered mental health care. Your solution should explore the following key areas:
 1. **Access and Availability.**
    
@@ -32,30 +32,24 @@ Explore how AI-driven systems could improve access to mental health care, partic
 2. **Model Capabilities.**
 
 Evaluate the current capabilities of LLMs in providing therapeutic support. Can LLMs, as they exist today, effectively provide mental health support? Why or why not? If not, how could they be improved such that they can offer mental health support? Examples of things to consider include:
-* Memory: A therapist uses past sessions to build rapport and trust over time. How could an LLM build rapport with a user?*
-* Empathy: A key aspect of therapy is emotional understanding and empathy. How might an AI model recognize and appropriately respond to emotions in a therapeutic setting? Therapists also often challenge their patients, but LLMs tend to be affirmative in nature. How can these models learn when and how to challenge a user in a supportive and safe way?
+* Memory: Therapists use past sessions to build rapport and trust over time, and they remember key facts and incidents to inform their approach. How could LLMs make similar use of memory to offer better support?
+* Emotions: A key aspect of therapy is recognising and understanding emotions in others. How might an AI model recognize and appropriately respond to emotions expressed by users?
+* Affirmation vs Challenge: Therapists often challenge their patients, but LLMs tend to be affirmative in nature. How can these models learn when and how to challenge a user in a supportive and safe way?
 * Cultural Sensitivity: Mental health discussions vary significantly across cultures. Can an LLM adapt to these cultural nuances, or how could it be trained to do so?
 
-4. **Human-AI Interfaces.**
+3. **Human-AI Interfaces.**
 
 Many applications of generative AI default to a familiar chatbot interface. But is this the most appropriate interface between LLMs, clinicians, and patients in mental health? What do clinicians and patients need from their interactions with your models, and how can you design a user interface that meets those needs? We encourage you to not default to a chatbot for this challenge – if your solution does include a chatbot, make sure you have a clear and well-reasoned justification!
 
-5. **Asynchronous vs Real-Time Assistance.**
+4. **Lived Experience Engagement**
 
-Consider whether these AI-powered tools would operate asynchronously (e.g., analyzing notes and providing reports in between sessions) or in real-time (e.g., offering insights during a session). What are the benefits and limitations of each approach? How would clinicians interact with the system to maximize the value of these insights without disrupting the therapeutic process?
+Does your solution tackle a high-priority problem in an acceptable way from the patient/user perspective? How will those with lived experience of mental health conditions be involved in the design and development of your solution? The perspectives of those with lived experience will be essential in ensuring that the solution is acceptable, ethical and effective for end users, and should inform multiple stages of the development process.
 
-6. **Patient Engagement & Outcomes.**
-
-Does your solution tackle a high-priority problem in an acceptable way from the patient/user perspective? And how can AI-enhanced tools help improve patient engagement and therapeutic outcomes? For example:
-Lived Experience Engagement: How will those with lived experience of mental health conditions be involved in the design and development of your solution? The perspectives of those with lived experience will be essential in ensuring that the solution is acceptable, ethical and effective for end users, and should inform multiple stages of the development process.
-Patient-AI Collaboration: Could AI tools empower patients by giving them access to certain insights or self-reflection prompts between sessions? What should those insights be?
-Personalized Interventions & Clinician-AI Collaboration: How might AI recommend personalized therapeutic interventions (or make recommendations to a clinician) based on patterns it detects in patient data?
-
-7. **Safety.** 
+5. **Safety.** 
 
 Consider how you can ensure that your project makes safe use of generative AI. For example, what monitoring and evaluation methods will you need to ensure that model output is appropriate, and how will you prevent unsafe interactions between models, patients, and clinicians?
 
-#### Guidelines
+### Guidelines
 When designing your project and submitting your materials, it is important to bear in mind the following:
 
 1. **Personal data.** You must not use any personal data throughout the process (both when using any tools provided to you or in your submission materials). Personal data is any information that either identifies an individual or could be used to identify an individual and includes, in particular, live patient data. If you need to use data as part of your project, please use dummy or artificial information instead. 
