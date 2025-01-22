@@ -5,7 +5,7 @@
 
 ### January 26 - 29 
 [Join MEXA here.](https://mexa.app/)  
-**[Register Here!](https://airtable.com/app3qpCRLWwTWEy6S/pagOvhT4clRFrygZ9/form)**
+Registration closed. 
 
 Teams will have from 0:00 UTC on January 26 to 24:00 UTC on January 29 to work on the challenge. You can see what time that is in your time zone [here](https://www.worldtimebuddy.com/). Depending on your time zone, it might start on January 25! 
 
